@@ -1,3 +1,7 @@
+**Authors:** Md. Samrina, Venkata Siddarth Indaram, V. Ramesh Kumar
+
+This project was developed jointly by the authors above. The original repository, set up by the co-author, is at https://github.com/IndaramVenkataSiddarth/TBioCAS-PPG-AFib-Edge-Zynq. This copy is maintained by Md. Samrina.
+
 # Resource-Efficient Edge Deployment of a Quantized PRV-Feature Neural Network for PPG-Based AFib Screening
 
 Official open-source implementation repository for the revised manuscript submitted to **IEEE Transactions on Biomedical Circuits and Systems (TBioCAS)**:  
