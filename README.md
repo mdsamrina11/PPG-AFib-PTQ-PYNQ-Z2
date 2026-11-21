@@ -129,8 +129,8 @@ TBioCAS-PPG-AFib-Edge-Zynq/
 
 ### 1. Environment Setup
 ```bash
-git clone https://github.com/IndaramVenkataSiddarth/TBioCAS-PPG-AFib-Edge-Zynq.git
-cd TBioCAS-PPG-AFib-Edge-Zynq
+git clone https://github.com/mdsamrina11/PPG-AFib-PTQ-PYNQ-Z2.git
+cd PPG-AFib-PTQ-PYNQ-Z2
 pip install -r requirements.txt
 ```
 
